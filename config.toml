@@ -1484,11 +1484,11 @@ uglyURLs = false
         # 名字
         name = "Jaes"
         # 邮箱
-        email = "reuixiy@gmail.com"
+        email = "yourhotbabyonfire@gmail.com"
         # 座右铭或简介
-        motto = "Viva La Vida"
+        motto = "我生而为人的目的是: 去决定、去宣告、去创造、去表达、去体验和去实现自己真正是谁。"
         # 头像
-        avatar = "/icons/apple-touch-icon.png"
+        avatar = "/avatar.jpg"
         # 网站（默认值：baseURL）
         website = "https://io-oi.me/"
         # 推特
